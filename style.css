@@ -1,0 +1,29 @@
+body {
+	background-color: rgb(255,83,13);  
+
+}
+p {
+	font-size: 25px;
+}
+
+.center {
+	text-align: center;
+}
+
+
+div {
+	background-color: white;
+	margin: 0 auto;
+	padding-top: 200px;
+	font-size: 2em;
+	width: 96%;
+
+}
+@media (min-width: 768px){
+	div {
+	background-color: white;
+	margin: 1%;
+	padding-top: 100px;
+	font-size: 3em;
+	width: 48%;
+	float: left;
